@@ -3,7 +3,7 @@
 ### 🚀 About Me 
 
 - 🧑🏻‍💻 I am a 2nd year **Computer Engineering** student in the Philippines 
-- 💡 I am self-learning **full stack web development** during free time
+- 💡 I am self-learning **full stack web development** during my free time
 - 🤔 I mostly **seek tech advice** from experienced developers
 - ⚡ Fun fact: I listen to music **whatever I do**
 
