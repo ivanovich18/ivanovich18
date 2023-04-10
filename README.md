@@ -1,9 +1,13 @@
-### Hi there 👋
+### About Me 👋
 
 - 🧑🏻‍💻 I am a 2nd year **Computer Engineering** student in the Philippines 
 - 💡 I am self-learning **full stack web development** during free time
 - 🤔 I mostly **seek tech advice** from experienced developers
 - ⚡ Fun fact: I listen to music **whatever I do**
+
+### Tech Stacks
+<p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+
 
 <!--
 **ivanovich18/ivanovich18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
