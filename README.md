@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- I'm a computer engineering student
+- I'm learning full-stack web development during free time
+- I mostly seek tech advice from experienced developers
+
 <!--
 **ivanovich18/ivanovich18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
