@@ -51,6 +51,7 @@
 </p>
 
 <hr/>
+
 ### ⭐ GitHub Stats
 
 <div align="center">
@@ -62,7 +63,9 @@
     <img height="200" src="https://github-readme-stats.vercel.app/api?username=ivanovich18&show_icons=true&theme=dark&title_color=fff&text_color=fff&icon_color=fb8c00&include_all_commits=true&rank_icon=percentile"/>
   </a>
 </div>
+
 <hr/>
+
 ![](https://komarev.com/ghpvc/?username=ivanovich18&style=for-the-badge)
 
 <!--
