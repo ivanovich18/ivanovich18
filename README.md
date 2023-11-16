@@ -32,7 +32,11 @@
    <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"  /></a>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivanovich18)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+
+[![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivanovich18&show_icons=true&theme=transparent&title_color=fff&text_color=fff&icon_color=fff&include_all_commits=true&rank_icon=percentile)](https://github.com/ivanovich18)
+
+[![Ivan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanovich18&show_icons=true&theme=transparent&title_color=fff&text_color=fff&icon_color=fff&layout=compact)](https://github.com/ivanovich18)
 
 <!--
 **ivanovich18/ivanovich18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
