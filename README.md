@@ -9,6 +9,10 @@
 - 🤔 I mostly **seek tech advice** from fellow aspiring developers.
 - ⚡ Fun fact: I listen to music **whatever I do**.
 
+<div align="center">
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31enybnksziru7ot67ufytzkgtpa&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31enybnksziru7ot67ufytzkgtpa&redirect=true)
+</div>
+
 ### 🌐 Tech Stacks
 <p align="center"> 
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/></a>
