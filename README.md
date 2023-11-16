@@ -36,13 +36,15 @@
 
 <div align="center">
   <a href="https://github.com/ivanovich18">
-    <img margin-bottom: 2rem height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanovich18&show_icons=true&theme=transparent&title_color=fff&text_color=fff&icon_color=fff&layout=compact"/>
+    <img height="200" src="https://github-readme-streak-stats.herokuapp.com?user=ivanovich18&theme=dark&date_format=M%20j%5B%2C%20Y%5D&card_width=467"/>
   </a>
+  <br/><br/>
   <a href="https://github.com/ivanovich18">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=ivanovich18&show_icons=true&theme=transparent&title_color=fff&text_color=fff&icon_color=fff&include_all_commits=true&rank_icon=percentile"/>
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=ivanovich18&show_icons=true&theme=dark&title_color=fff&text_color=fff&icon_color=fb8c00&include_all_commits=true&rank_icon=percentile"/>
   </a>
 </div>
 
+[![GitHub Streak]()](https://git.io/streak-stats)
 
 <!--
   </a>
