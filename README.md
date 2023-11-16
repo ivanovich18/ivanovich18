@@ -1,6 +1,6 @@
 <div align="center">
   
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&pause=1000&width=435&lines=Hi+there,+friend!;How+are+you+doing%3F)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&pause=1000&width=435&lines=Hello+there,+friends!;How+are+you+doing%3F)](https://git.io/typing-svg)
 
   <a href="https://www.linkedin.com/in/ivan-suralta/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
