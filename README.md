@@ -35,8 +35,8 @@
 ### ⭐ GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/ivanovich18" style="margin-bottom: 2rem;">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanovich18&show_icons=true&theme=transparent&title_color=fff&text_color=fff&icon_color=fff&layout=compact"/>
+  <a href="https://github.com/ivanovich18">
+    <img margin-bottom: 2rem height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanovich18&show_icons=true&theme=transparent&title_color=fff&text_color=fff&icon_color=fff&layout=compact"/>
   </a>
   <a href="https://github.com/ivanovich18">
     <img height="200" src="https://github-readme-stats.vercel.app/api?username=ivanovich18&show_icons=true&theme=transparent&title_color=fff&text_color=fff&icon_color=fff&include_all_commits=true&rank_icon=percentile"/>
