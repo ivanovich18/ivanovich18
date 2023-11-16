@@ -13,7 +13,6 @@
   </a>
 
 </div>
-
 ### 🚀 About Me 
 
 - 🧑🏻‍💻 I am a 3rd year **Computer Engineering** student in the Philippines. 
@@ -51,6 +50,7 @@
    <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"  /></a>
 </p>
 
+<hr/>
 ### ⭐ GitHub Stats
 
 <div align="center">
@@ -62,7 +62,7 @@
     <img height="200" src="https://github-readme-stats.vercel.app/api?username=ivanovich18&show_icons=true&theme=dark&title_color=fff&text_color=fff&icon_color=fb8c00&include_all_commits=true&rank_icon=percentile"/>
   </a>
 </div>
-
+<hr/>
 ![](https://komarev.com/ghpvc/?username=ivanovich18&style=for-the-badge)
 
 <!--
