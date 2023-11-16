@@ -32,15 +32,12 @@
    <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"  /></a>
 </p>
 
-<br/>
+### ⭐ GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/ivanovich18">
+  <a href="https://github.com/ivanovich18" style="margin-bottom: 1rem;">
     <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanovich18&show_icons=true&theme=transparent&title_color=fff&text_color=fff&icon_color=fff&layout=compact"/>
   </a>
-  
-  <br><br>
-  
   <a href="https://github.com/ivanovich18">
     <img height="200" src="https://github-readme-stats.vercel.app/api?username=ivanovich18&show_icons=true&theme=transparent&title_color=fff&text_color=fff&icon_color=fff&include_all_commits=true&rank_icon=percentile"/>
   </a>
