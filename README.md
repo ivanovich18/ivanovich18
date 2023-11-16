@@ -25,7 +25,10 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31enybnksziru7ot67ufytzkgtpa&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31enybnksziru7ot67ufytzkgtpa&redirect=true)
 </div>
 
+<hr/>
+
 ### 🌐 Tech Stack
+
 <p align="center"> 
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/></a>
   <a href="https://www.w3.org/css/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/></a>
@@ -66,7 +69,11 @@
 
 <hr/>
 
+<div align="center">
+
 ![](https://komarev.com/ghpvc/?username=ivanovich18&style=for-the-badge)
+  
+</div>
 
 <!--
   </a>
