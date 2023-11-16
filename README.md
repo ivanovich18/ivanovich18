@@ -34,7 +34,7 @@
 
 <br/>
 
-<div style="display: flex; flex-wrap: nowrap; overflow-x: auto;">
+<div style="display: flex; flex-direction: row; overflow-x: auto;">
   <a href="https://github.com/ivanovich18" style="flex-shrink: 0; margin-right: 10px;">
     <img height="200" src="https://github-readme-stats.vercel.app/api?username=ivanovich18&show_icons=true&theme=transparent&title_color=fff&text_color=fff&icon_color=fff&include_all_commits=true&rank_icon=percentile"/>
   </a>
