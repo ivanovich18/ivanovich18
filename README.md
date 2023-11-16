@@ -36,10 +36,10 @@
 
 <div align="center">
   <a href="https://github.com/ivanovich18">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=ivanovich18&show_icons=true&theme=transparent&title_color=fff&text_color=fff&icon_color=fff&include_all_commits=true&rank_icon=percentile"/>
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanovich18&show_icons=true&theme=transparent&title_color=fff&text_color=fff&icon_color=fff&layout=compact"/>
   </a>
   <a href="https://github.com/ivanovich18">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanovich18&show_icons=true&theme=transparent&title_color=fff&text_color=fff&icon_color=fff&layout=compact"/>
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=ivanovich18&show_icons=true&theme=transparent&title_color=fff&text_color=fff&icon_color=fff&include_all_commits=true&rank_icon=percentile"/>
   </a>
 </div>
 
