@@ -35,7 +35,7 @@
 ### ⭐ GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/ivanovich18" style="margin-bottom: 1rem;">
+  <a href="https://github.com/ivanovich18" style="margin-bottom: 2rem;">
     <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanovich18&show_icons=true&theme=transparent&title_color=fff&text_color=fff&icon_color=fff&layout=compact"/>
   </a>
   <a href="https://github.com/ivanovich18">
