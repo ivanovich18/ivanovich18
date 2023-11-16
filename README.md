@@ -34,17 +34,20 @@
 
 <br/>
 
-<div style="display: flex; justify-content: space-between;">
-  <a href="https://github.com/ivanovich18">
+<div style="display: flex; flex-wrap: nowrap; overflow-x: auto;">
+  <a href="https://github.com/ivanovich18" style="flex-shrink: 0; margin-right: 10px;">
     <img height="200" src="https://github-readme-stats.vercel.app/api?username=ivanovich18&show_icons=true&theme=transparent&title_color=fff&text_color=fff&icon_color=fff&include_all_commits=true&rank_icon=percentile"/>
   </a>
-  <a href="https://github.com/ivanovich18">
+  <a href="https://github.com/ivanovich18" style="flex-shrink: 0;">
     <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanovich18&show_icons=true&theme=transparent&title_color=fff&text_color=fff&icon_color=fff&layout=compact"/>
-  </a>
-</div>
+
+
 
 <!--
-
+  </a>
+</div>
+  </a>
+</div>
 <a href="https://github.com/ivanovich18">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ivanovich18&show_icons=true&theme=transparent&title_color=fff&text_color=fff&icon_color=fff&include_all_commits=true&rank_icon=percentile"/>
 </a>
