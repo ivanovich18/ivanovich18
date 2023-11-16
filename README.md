@@ -1,6 +1,18 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&pause=1000&width=435&lines=Hi+there!;How+are+you+doing%3F)](https://git.io/typing-svg)
 
+<div align="center">
+  
+  <a href="https://www.linkedin.com/in/ivan-suralta/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:ivangsuralta@gmail.com">
+    <img src="https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail&logoColor=black" alt="Email Badge"/>
+  </a>
+  <a href="https://www.instagram.com/itsivansuralta/">
+    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
 
+</div>
 
 ### 🚀 About Me 
 
@@ -12,7 +24,6 @@
 <div align="center">
   
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31enybnksziru7ot67ufytzkgtpa&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31enybnksziru7ot67ufytzkgtpa&redirect=true)
-  
 </div>
 
 ### 🌐 Tech Stacks
@@ -52,7 +63,7 @@
   </a>
 </div>
 
-[![GitHub Streak]()](https://git.io/streak-stats)
+![](https://komarev.com/ghpvc/?username=ivanovich18&style=for-the-badge)
 
 <!--
   </a>
