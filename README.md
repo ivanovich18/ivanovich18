@@ -14,7 +14,6 @@
 
 </div>
 
-
 ### 🚀 About Me 
 
 - 🧑🏻‍💻 I am a 20-year old, 3rd year **Computer Engineering** student in the Philippines. 
@@ -74,6 +73,9 @@
 <div align="center">
 
 ![](https://komarev.com/ghpvc/?username=ivanovich18&style=for-the-badge)
+
+
+[![committers.top badge](https://user-badge.committers.top/philippines/ivanovich18.svg)](https://user-badge.committers.top/philippines/ivanovich18)
   
 </div>
 
