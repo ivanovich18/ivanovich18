@@ -16,7 +16,7 @@
 
 ### 🚀 About Me 
 
-- 🧑🏻‍💻 I am a 20-year old, 4th year **Computer Engineering** student in the Philippines. 
+- 🧑🏻‍💻 I am a 21-year old, 4th year **Computer Engineering** student in the Philippines. 
 - 💡 I am self-learning **full stack web development** during my free time.
 - 🤔 I mostly **seek tech advice** from fellow aspiring developers.
 - ⚡ Fun fact: I listen to music **whatever I do**.
